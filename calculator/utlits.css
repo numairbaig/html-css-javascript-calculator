@@ -1,0 +1,59 @@
+.centre {
+    text-align: center;
+    padding: 10px 0px;
+
+}
+
+
+/* calculator adjustments */
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.item-centre {
+    align-items: center;
+
+}
+
+
+
+
+/* buttons */
+
+.clear-button {
+    width: 141px;
+    background-color: rgba(236, 218, 22, 0.79);
+}
+
+.ans-button {
+    width: 141px;
+    background-color: rgba(236, 218, 22, 0.79);
+
+}
+
+.percentage {
+    background-color: rgb(14, 252, 102);
+
+}
+
+.divide {
+    background-color: rgb(14, 252, 102);
+
+}
+
+.multiplay{
+    background-color: rgb(14, 252, 102);
+
+}
+
+.negative{
+    background-color: rgb(14, 252, 102);
+
+}
+
+.postive{
+    background-color: rgb(14, 252, 102);
+
+}

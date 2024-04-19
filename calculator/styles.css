@@ -1,0 +1,44 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.Calculator {
+    padding: 10px;
+    border-radius: 1em;
+    height: 510px;
+    width: 302px;
+    margin: auto;
+    background-color: #08a47530;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.button {
+    font-size: 20px;
+    text-align: center;
+    padding: 2svw;
+    width: 66px;
+    margin: 0 3px;
+    border: 2px solid rgb(22, 22, 23);
+    border-radius: 15px;
+}
+
+.button:hover {
+    background-color: rgb(222, 217, 217);
+}
+
+.row {
+    margin: 6px 0;
+}
+
+.row input {
+    font-size: 24px;
+    margin: 0;
+    padding: 15px 0px;
+    border: 2px solid rgb(22, 22, 23);
+    border-radius: 10px;
+}
